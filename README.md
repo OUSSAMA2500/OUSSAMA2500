@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OUSSAMA2500
 - 👀 I’m interested in Learning and creating new projects 
-- 🌱 I’m currently learning Python
 - 📫 How to reach me Email: oussama.boulahbal@outlook.fr
 
 <!---
